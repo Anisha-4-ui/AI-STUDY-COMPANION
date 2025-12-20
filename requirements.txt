@@ -1,0 +1,39 @@
+# Core utilities
+python-dotenv
+numpy
+requests
+
+# Frontend
+streamlit
+
+# AI / LLM
+google-generativeai
+langchain
+langchain-google-genai
+langchain-community
+langchain-ollama
+
+# RAG / Vector Search
+faiss-cpu
+pypdf
+sentence-transformers
+scikit-learn
+
+# Text processing
+html2text
+mistune
+beautifulsoup4
+
+# Evaluation
+rouge-score
+
+# Voice
+SpeechRecognition
+pyaudio
+pyttsx3
+
+# Web search
+serpapi
+
+# PDF generation
+reportlab
